@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm a software Engineer, product manager, and (occasional) musician working in Tokyo.
+I'm a software engineer, product manager, and (occasional) musician working in Tokyo.
 
 You can find out most things about me at [morrisoncole.co.uk](https://morrisoncole.co.uk/) 🙏
 
