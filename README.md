@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello! 👋
+
+I'm a Software Engineer, Product Manager, and (occasional) Musician currently working in Tokyo.
+
+You can find out most things about me at [morrisoncole.co.uk](https://morrisoncole.co.uk/) 🙏
 
 <!--
 **MorrisonCole/MorrisonCole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
