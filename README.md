@@ -1,8 +1,10 @@
 ### Hello! 👋
 
-I'm a software engineer, product manager, and (occasional) musician working in Tokyo.
+I'm Morrison - a Senior Software Engineer at [Unity](https://unity.com/) 🎮. 
 
-You can find out most things about me at [morrisoncole.co.uk](https://morrisoncole.co.uk/) 🙏
+Right now I'm based in Tokyo where I enjoy teaching software engineering, hiking, and generally struggle to be a vegetarian.
+
+If you want to stalk me more, you can take a look at [morrisoncole.co.uk](https://morrisoncole.co.uk/) 🙏.
 
 <!--
 **MorrisonCole/MorrisonCole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
