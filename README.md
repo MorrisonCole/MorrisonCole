@@ -1,8 +1,8 @@
 ### Hello! 👋
 
-- 🎮 I build stuff at [Unity](https://unity.com/) as a software engineer
-- 🌱 Based in Tokyo where I also enjoy teaching software engineering, hiking, and making music
-- 📫 If you want to take a look at my other projects, have a look at [morrisoncole.co.uk](https://morrisoncole.co.uk/)
+- 🎮 I build stuff at [Unity](https://unity.com/)
+- 🌱 Based in Tokyo where I also teach software engineering, hike, and make music
+- 📫 Everything else at [morrisoncole.co.uk](https://morrisoncole.co.uk/)
 
 <!--
 **MorrisonCole/MorrisonCole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
