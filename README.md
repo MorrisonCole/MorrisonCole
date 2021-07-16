@@ -1,7 +1,5 @@
 ### Hello! 👋
 
-I'm Morrison.
-
 - 🎮 I build stuff at [Unity](https://unity.com/) in Tokyo, Japan 🌸
 - 🌱 Sometimes teach software engineering remotely, hike, and make [music](https://www.youtube.com/channel/UCqQdwJ5W-FDAin_Hc6oHz_A)
 - 📫 Everything else at [morrisoncole.co.uk](https://morrisoncole.co.uk/)
